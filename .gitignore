@@ -1,3 +1,7 @@
+# IDEA
+.idea
+.idea/*
+
 # Compiled Lua sources
 luac.out
 
